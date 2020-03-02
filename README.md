@@ -46,8 +46,10 @@ innodb_log_file_size=768M
 
 ------------------------------------------------------------------------------------------------------------------
 ## 2-02-2020 Monday
-# Today I have completed the synopsis of our project.
-# I have made the github  page.
+- Today I have completed the synopsis of our project.
+- I have made the github  page from this link.
+ [github_page](https://guides.github.com/features/pages/)
+ ------------------------------------------------------------------------------------------------------------------
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
