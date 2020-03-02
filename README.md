@@ -20,12 +20,12 @@ mysql> create user 'amc2' identified by 'amc2';
 
 To restrict the access to a machine (for example, to localhost for a user) create the user as follows:
 
--mysql> create user 'amc2'@'localhost' identified by 'amc2';
+- mysql> create user 'amc2'@'localhost' identified by 'amc2';
 
 Create the database (for example, amc2) and grant all access to the user, for example, amc2 as follows:
--mysql> create database amc2;
+- mysql> create database amc2;
 
--mysql> grant all on amc2.* to 'amc2';
+- mysql> grant all on amc2.* to 'amc2';
 
 Configure your MySQL installation to handle large BLOB entries, such as MSI binaries. To handle BLOB entries, edit the my.cnf file.
 You can find the my.cnf file in one of the following locations:
