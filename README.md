@@ -1,7 +1,7 @@
 ## 29-1-2020 Wednesday
 # How to install the ububtu 18.04 step by step.
 # [ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
-\ pagebreak
+---------------------------------------------------------------------------------------------
 
 ## 30-1-2020 Thursday
 Today I have Finished Install the mysql.
