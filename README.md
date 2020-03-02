@@ -2,9 +2,46 @@
 # How to install the ububtu 18.04 step by step.
 # [ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
 
-You can use the [editor on GitHub](https://github.com/cooljaya2016/cooljaya2016.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 30-1-2020 Thursday
+# Today I have Finished Install the mysql.
+# **How to mysql install from command line step by step**
+#1. Install the MySQL database server package.
+You can use the Yum tool to install MySQL on Oracle Linux: sudo yum install mysql-community-server.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#2. Start the MySQL service:
+sudo service mysql start
+
+#3. Launch the MySQL Command-Line Client:
+mysql -u root -p
+The -p option is needed only if a root password is defined for MySQL. Enter the password when prompted.
+
+#4.Create a user (for example, amc2) and a strong password:
+mysql> create user 'amc2' identified by 'amc2';
+
+To restrict the access to a machine (for example, to localhost for a user) create the user as follows:
+
+#5.mysql> create user 'amc2'@'localhost' identified by 'amc2';
+
+Create the database (for example, amc2) and grant all access to the user, for example, amc2 as follows:
+#6.mysql> create database amc2;
+
+#7.mysql> grant all on amc2.* to 'amc2';
+
+Configure your MySQL installation to handle large BLOB entries, such as MSI binaries. To handle BLOB entries, edit the my.cnf file.
+You can find the my.cnf file in one of the following locations:
+
+/etc/my.cnf
+
+/etc/mysql/my.cnf
+
+$MYSQL_HOME/my.cnf
+
+[datadir]/my.cnf
+
+Set the options max_allowed_packet and innodb_log_file-size in the [mysqld] section to the values shown:
+[mysqld]
+max_allowed_packet=300M
+innodb_log_file_size=768M
 
 ### Markdown
 
