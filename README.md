@@ -45,6 +45,9 @@ max_allowed_packet=300M
 innodb_log_file_size=768M
 
 ------------------------------------------------------------------------------------------------------------------
+## 2-02-2020 Monday
+# Today I have completed the synopsis of our project.
+# I have made the github  page.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
