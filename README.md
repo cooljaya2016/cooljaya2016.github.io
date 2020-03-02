@@ -1,6 +1,6 @@
 ## 29-1-2020 Wednesday
 # How to install the ububtu 18.04 step by step.
-[ubuntu].(https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
+[ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
 
 You can use the [editor on GitHub](https://github.com/cooljaya2016/cooljaya2016.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
