@@ -43,6 +43,7 @@ Set the options max_allowed_packet and innodb_log_file-size in the [mysqld] sect
 [mysqld]
 max_allowed_packet=300M
 innodb_log_file_size=768M
+
 ------------------------------------------------------------------------------------------------------------------
 ### Markdown
 
