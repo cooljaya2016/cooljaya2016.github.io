@@ -134,12 +134,15 @@ max_allowed_packet=300M
 innodb_log_file_size=768M
 
 ------------------------------------------------------------------------------------------------------------------
-## 05-2-2020 Wednesday
- # Python in 90 Minutes
+## 04-2-2020 Tuesday
+# Python in 90 Minutes
  I have read the concept of Python.
  [python](https://www.slideshare.net/MattHarrison4/learn-90)
  
 ------------------------------------------------------------------------------------------------------------------
+## 13--2-2020 Monday
+  I have learnt the Boolean,operaters,lists,Tuples,Sets,If---else etc.
+---------------------------------------------------------------------------------------------
 ## 02-2-2020 Sunday
 ### Today, I have starting learnt to python and I have learnt the basic,Syntax, variables from this link.
  [python](https://www.w3schools.com/python/python_variables.asp)
