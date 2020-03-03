@@ -142,7 +142,7 @@ innodb_log_file_size=768M
 ------------------------------------------------------------------------------------------------------------------
 ## 02-2-2020 Sunday
 ### Today, I have starting learnt to python and I have learnt the basic,Syntax, variables from this link.
- [https://www.w3schools.com/python/python_variables.asp]
+ [python](https://www.w3schools.com/python/python_variables.asp)
 
 -----------------------------------------------------------------------------------------------------------------
 ## 29-1-2020---31-1-2020
