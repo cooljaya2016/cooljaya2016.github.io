@@ -1,3 +1,4 @@
+
 ## 2-03-2020 Monday
  Today,I have completed the synopsis of our project.
  I have made the github  page from this link [github_page](https://guides.github.com/features/pages/)
@@ -91,7 +92,7 @@ done
 
 ------------------------------------------------------------------------------------------------------------------
 
-## 30-1-2020 Thursday
+## 10-2-2020 Monday
 Today I have Finished Install the mysql.
 # How to mysql install from command line step by step
 - Install the MySQL database server package.
@@ -133,8 +134,16 @@ max_allowed_packet=300M
 innodb_log_file_size=768M
 
 ------------------------------------------------------------------------------------------------------------------
-
-## 29-1-2020 Wednesday
+## 05-2-2020 Wednesday
+ # Python in 90 Minutes
+ I have read the concept of Python.
+ [python](https://www.slideshare.net/MattHarrison4/learn-90)
+ 
+------------------------------------------------------------------------------------------------------------------
+## 02-2-2020 Sunday
+### Today, I have starting learnt to python and I have learnt the basic,Syntax, variables from this link.
+-----------------------------------------------------------------------------------------------------------------
+## 29-1-2020---31-1-2020
 # How to install the ububtu 18.04 step by step.
 # [ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
 ------------------------------------------------------------------------------------------------------------------
