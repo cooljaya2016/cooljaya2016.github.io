@@ -10,7 +10,54 @@ Today, I have read key points of Programming with Python from given below link.
 
 ------------------------------------------------------------------------------------------------------------------
 ## 27-02-2020 Thursday
-# Project : Outcome based Education System
+## Today i have prepared the synopsis of  Outcome based Education System
+###  Keypoints of Synopsis:
+ INTRODUCTION:
+Outcome-based education (OBE) is an approach to education in which decisions about the curriculum are driven by the exit learning outcomes (LO) that the students should display at the end of the course. LO as being something that student can do now that they could not do previously’ are changes in people as a result of learning experience.
+
+- OBJECTIVES
+1. To increase the knowledge and skills of the learners.
+2. It will automate the system and save the time and efforts of the teachers in  making question papers.
+3. It will stop repetition of question papers.
+
+-	FEASIBILITY STUDY
+			
+ - LITERATURE REVIEW
+
+- METHODOLOGY & PROBLEM FORMULATION
+
+The LoQET’s main fuctional  requirements are illustrated in a use case Diagram. The use case diagram shows the actors (I.e Lecturer and e-SMP) that interact with LoQET functionalities. The e-SMP will provide input regarding on course teaching plan and course assessment percentage entries. This input will be informed to the lecturer when she / he wants to compose a question paper for the particular course. Lecturer should also able to export question paper, reset or reorganize the question paper and view question paper. Other basic and common functionalities, such as create, retrieve,update, and delete are also offered.
+
+- LoQET’s component diagram:
+
+- LoQETui=This component should provide a user- friendly user interface design for lecturers.
+- ComponentQues=The component should provide a main feature of LoQET to compose a set of question, which aligns with learning outcomes and program outcomes. The feature includes creating, deleting or editing these questions.
+- ManagePaper=The component should allow the lecturer to add, delete and edit an examination paper details.
+- ExportPaper=The comnent should allow the lecturer to export composed  exam paper in to several formats such as pdf and txt. 
+- Authorization=The component should verify the user login.
+- DB=The component should store LoQET data onto tables.
+
+- REQUIREMENT ANALYSIS
+Hardware Specification
+CPU Speed: 2GHz recommended or higher
+Processor: Pentium Processor or above
+Memory/RAM: 1GB minimum,2GB recommended or higher
+Size of Hard Disk:60 GB minimum
+ 
+Software Specification
+Framework: Django        
+Operating System: Ubuntu 18.4
+### FUTURE SCOPE
+    
+- Educators should change or improve their ways of instructing and accessing the learner’s work.
+- Content is integrated and learning is relevant and connected to real- life situations.
+- Learning programmes are seen as guides that allow teachers to be innovative and creative in designing their programmes.
+ 
+  - REFERENCES            
+  [https://acadpubl.eu/hub/2018-119-17/4/442.pdf]
+  [https://files.eric.ed.gov/fulltext/EJ1090186.pdf]
+
+
 --------------------------------------------------------------------------------------------------------------------
 ## 20-02-2020 Thursday
 # How to remove the last three line from multiple file.
