@@ -1,3 +1,24 @@
+## 2-03-2020 Monday
+ Today I have completed the synopsis of our project.
+ I have made the github  page from this link [github_page](https://guides.github.com/features/pages/)
+ 
+ ------------------------------------------------------------------------------------------------------------------
+
+## 20-02-2020 Thursday
+# How to remove the last three line from multiple file.
+
+script3.sh
+
+#!/bin/bash
+
+for f in *.txt
+
+do # tail command display the last 3 line and sed is used for delete the last line of file.
+
+   tail -3 $f | sed   -i   '$d'  $f  | sed  -i  '$d'  $f |  sed   -i  '$d'  $f ;
+done
+
+-----------------------------------------------------------------------------------------------------------------
 ## 19-02-2020 Wednesday
 # How to change the multiple file extension?
 script1.sh
@@ -77,26 +98,4 @@ innodb_log_file_size=768M
 ## 29-1-2020 Wednesday
 # How to install the ububtu 18.04 step by step.
 # [ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
----------------------------------------------------------------------------------------------
-
-
-## 20-02-2020 Thursday
-# How to remove the last three line from multiple file.
-
-script3.sh
-
-#!/bin/bash
-
-for f in *.txt
-
-do # tail command display the last 3 line and sed is used for delete the last line of file.
-
-   tail -3 $f | sed   -i   '$d'  $f  | sed  -i  '$d'  $f |  sed   -i  '$d'  $f ;
-done
-
-----------------------------------------------------------------------------------------------------------------
-## 2-03-2020 Monday
- Today I have completed the synopsis of our project.
- I have made the github  page from this link [github_page](https://guides.github.com/features/pages/)
- 
- ------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
