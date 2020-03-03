@@ -1,9 +1,14 @@
 ## 2-03-2020 Monday
- Today I have completed the synopsis of our project.
+ Today,I have completed the synopsis of our project.
  I have made the github  page from this link [github_page](https://guides.github.com/features/pages/)
  
  ------------------------------------------------------------------------------------------------------------------
+## 29-02-2020 Saturday
+Today, I have read key points of Programming with Python from given below link.
 
+[Key Points](http://swcarpentry.github.io/python-novice-inflammation/reference/#comma-separated-values)
+
+------------------------------------------------------------------------------------------------------------------
 ## 20-02-2020 Thursday
 # How to remove the last three line from multiple file.
 
