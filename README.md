@@ -10,7 +10,7 @@ Today, I have read key points of Programming with Python from given below link.
 
 ------------------------------------------------------------------------------------------------------------------
 ## 27-02-2020 Thursday
-## Today i have prepared the synopsis of  Outcome based Education System
+### Today, I have prepared the synopsis of  Outcome based Education System
 ###  Keypoints of Synopsis:
 - INTRODUCTION:
 Outcome-based education (OBE) is an approach to education in which decisions about the curriculum are driven by the exit learning outcomes (LO) that the students should display at the end of the course. LO as being something that student can do now that they could not do previously’ are changes in people as a result of learning experience.
