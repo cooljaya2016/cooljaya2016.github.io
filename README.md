@@ -1,8 +1,3 @@
-## 29-1-2020 Wednesday
-# How to install the ububtu 18.04 step by step.
-# [ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
----------------------------------------------------------------------------------------------
-
 ## 30-1-2020 Thursday
 Today I have Finished Install the mysql.
 # How to mysql install from command line step by step
@@ -43,6 +38,16 @@ Set the options max_allowed_packet and innodb_log_file-size in the [mysqld] sect
 [mysqld]
 max_allowed_packet=300M
 innodb_log_file_size=768M
+
+------------------------------------------------------------------------------------------------------------------
+
+## 29-1-2020 Wednesday
+# How to install the ububtu 18.04 step by step.
+# [ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
+--------------------------------------------------------------------------------------------
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------
 ## 19-02-2020 Wednesday
