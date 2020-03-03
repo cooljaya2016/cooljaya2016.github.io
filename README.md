@@ -1,3 +1,36 @@
+## 19-02-2020 Wednesday
+# How to change the multiple file extension?
+script1.sh
+
+#!/bin/bash
+
+srcpath=$1
+
+dstpath=$2
+
+echo $1 #print source directory name when user pass first the arugement
+
+echo $2 #print destination directory name when user pass the second argument.
+
+mkdir -p "$dstpath" # make a destination directory.
+
+cp -r $srcpath/* $dstpath # copy source file into destinaton file.
+
+for srcpath # check the source directory.
+
+do
+
+ for file in $(ls $dstpath/*.*)                 # check the all file  with extension in destination directory. 
+
+  do
+
+ echo $(mv -v $file  ${file%.*}.txt)               # remove the different-2 extension into single extension.
+
+  done
+done
+
+------------------------------------------------------------------------------------------------------------------
+
 ## 30-1-2020 Thursday
 Today I have Finished Install the mysql.
 # How to mysql install from command line step by step
@@ -44,44 +77,8 @@ innodb_log_file_size=768M
 ## 29-1-2020 Wednesday
 # How to install the ububtu 18.04 step by step.
 # [ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
-
-
-
-------------------------------------------------------------------------------------------------------------------
-## 19-02-2020 Wednesday
-# How to change the multiple file extension?
-script1.sh
-
-#!/bin/bash
-
-srcpath=$1
-
-dstpath=$2
-
-echo $1 #print source directory name when user pass first the arugement
-
-echo $2 #print destination directory name when user pass the second argument.
-
-mkdir -p "$dstpath" # make a destination directory.
-
-cp -r $srcpath/* $dstpath # copy source file into destinaton file.
-
-for srcpath # check the source directory.
-
-do
-
- for file in $(ls $dstpath/*.*)                 # check the all file  with extension in destination directory. 
-
-  do
-
- echo $(mv -v $file  ${file%.*}.txt)               # remove the different-2 extension into single extension.
-
-  done
-done
-
-------------------------------------------------------------------------------------------------------------------
 
 ## 20-02-2020 Thursday
 # How to remove the last three line from multiple file.
