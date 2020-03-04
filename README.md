@@ -1,17 +1,17 @@
 
 ## 2-03-2020 Monday
- Today,I have completed the synopsis of our project.
+ I have completed the synopsis of our project.
  I have made the github  page from this link [github_page](https://guides.github.com/features/pages/)
  
  ------------------------------------------------------------------------------------------------------------------
 ## 29-02-2020 Saturday
-Today, I have read key points of Programming with Python from given below link.
+ I have read key points of Programming with Python from given below link.
 
 [Key Points](http://swcarpentry.github.io/python-novice-inflammation/reference/#comma-separated-values)
 
 ------------------------------------------------------------------------------------------------------------------
 ## 27-02-2020 Thursday
-### Today, I have prepared the synopsis of  Outcome based Education System
+### I have prepared the synopsis of  Outcome based Education System
 ###  **Keypoints of Synopsis**:
 - INTRODUCTION:
 Outcome-based education (OBE) is an approach to education in which decisions about the curriculum are driven by the exit learning outcomes (LO) that the students should display at the end of the course. LO as being something that student can do now that they could not do previously’ are changes in people as a result of learning experience.
@@ -93,7 +93,7 @@ done
 ------------------------------------------------------------------------------------------------------------------
 
 ## 10-2-2020 Monday
-Today I have Finished Install the mysql.
+ I have Finished Install the mysql.
 # How to mysql install from command line step by step
 - Install the MySQL database server package.
 You can use the Yum tool to install MySQL on Oracle Linux: sudo yum install mysql-community-server.
@@ -141,10 +141,10 @@ innodb_log_file_size=768M
  
 ------------------------------------------------------------------------------------------------------------------
 ## 13--2-2020 Monday
-  I have learnt the Boolean,operaters,lists,Tuples,Sets,If---else etc.
+  I have learnt the Boolean, operaters, lists, Tuples, Sets, If---else etc.
 ---------------------------------------------------------------------------------------------
 ## 02-2-2020 Sunday
-### Today, I have starting learnt to python and I have learnt the basic,Syntax, variables from this link.
+### I have starting learnt to python and I have learnt the basic, Syntax, variables from this link.
  [python](https://www.w3schools.com/python/python_variables.asp)
 
 -----------------------------------------------------------------------------------------------------------------
