@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------------------------------------------------
 ## 27-02-2020 Thursday
-### I have prepared the synopsis of  Outcome based Education System
+I have prepared the synopsis of  Outcome based Education System
 ###  **Keypoints of Synopsis**:
 - INTRODUCTION:
 Outcome-based education (OBE) is an approach to education in which decisions about the curriculum are driven by the exit learning outcomes (LO) that the students should display at the end of the course. LO as being something that student can do now that they could not do previously’ are changes in people as a result of learning experience.
@@ -141,10 +141,11 @@ innodb_log_file_size=768M
  
 ------------------------------------------------------------------------------------------------------------------
 ## 13--2-2020 Monday
-  I have learnt the Boolean, operaters, lists, Tuples, Sets, If---else etc.
+I have learnt the Boolean, operaters, lists, Tuples, Sets, If---else etc.
+
 ---------------------------------------------------------------------------------------------
 ## 02-2-2020 Sunday
-### I have starting learnt to python and I have learnt the basic, Syntax, variables from this link.
+I have starting learnt to python and I have learnt the basic, Syntax, variables from this link.
  [python](https://www.w3schools.com/python/python_variables.asp)
 
 -----------------------------------------------------------------------------------------------------------------
