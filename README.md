@@ -140,7 +140,7 @@ innodb_log_file_size=768M
  [python](https://www.slideshare.net/MattHarrison4/learn-90)
  
 ------------------------------------------------------------------------------------------------------------------
-## 13--2-2020 Monday
+## 3-2-2020 Monday
 I have learnt the Boolean, operaters, lists, Tuples, Sets, If---else etc.
 
 ---------------------------------------------------------------------------------------------
