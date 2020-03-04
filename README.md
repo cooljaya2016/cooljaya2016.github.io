@@ -150,7 +150,7 @@ I have starting learnt to python and I have learnt the basic, Syntax, variables 
 
 -----------------------------------------------------------------------------------------------------------------
 ## 01-2-2020 Saturday
-Today I Understand Linux command,script,shortcuts etc.
+Today I Understand Linux command, script, shortcuts etc.
 
 ----------------------------------------------------------------------------------------------------------------------
 ## 29-1-2020---31-1-2020
