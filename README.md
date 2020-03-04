@@ -149,6 +149,10 @@ I have starting learnt to python and I have learnt the basic, Syntax, variables 
  [python](https://www.w3schools.com/python/python_variables.asp)
 
 -----------------------------------------------------------------------------------------------------------------
+## 01-2-2020 Saturday
+Today I Understand Linux command,script,shortcuts etc.
+
+----------------------------------------------------------------------------------------------------------------------
 ## 29-1-2020---31-1-2020
 # How to install the ububtu 18.04 step by step.
 # [ubuntu](https://www.linuxtechi.com/ubuntu-18-04-lts-desktop-installation-guide-screenshots/)
