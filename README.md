@@ -1,4 +1,7 @@
-
+## 3-03-2020 Tuesday
+ I have completed all blogs on github pages.
+ 
+--------------------------------------------------------------------------------------------------------------
 ## 2-03-2020 Monday
  I have completed the synopsis of our project.
  I have made the github  page from this link [github_page](https://guides.github.com/features/pages/)
