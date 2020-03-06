@@ -1,3 +1,7 @@
+## 5-03-2020 Thursday
+I have revised the django and some topic of Project.
+
+-------------------------------------------------------------------------------------------------------------
 ## 4-03-2020 Wednesday
 I have read about some topic in the project.
 
