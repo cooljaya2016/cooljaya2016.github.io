@@ -1,3 +1,7 @@
+## 4-03-2020 Wednesday
+I have read about some topic in the project.
+
+--------------------------------------------------------------------------------------------------------------
 ## 3-03-2020 Tuesday
  I have completed all blogs on github pages.
  
