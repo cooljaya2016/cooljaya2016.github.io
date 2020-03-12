@@ -1,3 +1,16 @@
+## 12-03-2020 Thursday
+I have completed task multiple image combine into single image using this command
+
+### convert *.gif +append abc.gif
+ I have changed the colour of image using this command
+ 
+ ### convert gip4.gif -fill blue -opaque black  abc.gif
+ 
+--------------------------------------------------------------------------------------------------------------
+## 7-03-2020 Saturday
+I have given seminar on outcome based education system.
+ 
+------- ---------------------------------------------------------------------------------------------------------
 ## 5-03-2020 Thursday
 I have revised the django and some topic of Project.
 
