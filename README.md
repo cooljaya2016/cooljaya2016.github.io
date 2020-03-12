@@ -3,9 +3,10 @@ I have completed task multiple image combine into single image using this comman
 
 ### convert  *.gif +append abc.gif
  I have changed the colour of image using this command
- ### convert gip4.gif -fill blue -opaque black  abc.gif
  
- I have half-completed sqlite tutorial from software carpentry [sqlite](https://swcarpentry.github.io/sql-novice-survey/05-null/index.html)
+### convert gip4.gif -fill blue -opaque black  abc.gif
+ 
+I have half-completed sqlite tutorial from software carpentry [sqlite](https://swcarpentry.github.io/sql-novice-survey/05-null/index.html)
  
 --------------------------------------------------------------------------------------------------------------
 ## 7-03-2020 Saturday
