@@ -1,3 +1,8 @@
+## 13-03-2020 Friday
+I have completed Sqlite tutorial from software carpentry
+[sqlite](https://swcarpentry.github.io/sql-novice-survey/)
+
+---------------------------------------------------------------------------------------------------------------
 ## 12-03-2020 Thursday
 I have completed task multiple image combine into single image using this command
 
