@@ -1,7 +1,8 @@
 ## 13-04-2020 Monday
  I have completed jquery, Ajax from W3 school
  [jquery](https://www.w3schools.com/xml/ajax_intro.asp)
- -- I Designed login Detail page in which have many options such as:
+ 
+ - I Designed login Detail page in which have many options such as:
  1. Faculty name
  2. Faculty ID
  3. Subject
