@@ -1,3 +1,34 @@
+## 13-04-2020 Monday
+ I have completed jquery, Ajax from W3 school
+ [jquery](https://www.w3schools.com/xml/ajax_intro.asp)
+
+## 12-04-2020 Sunday
+ I have completed Bootstrap from w3 school
+ [Bootstrap](https://www.w3schools.com/bootstrap/)
+ 
+ -----------------------------------------------------------------------------------------------------------------
+ 
+## 11-04-2020 Saturday
+ I Designed new page In which have many options such as:
+  1. Add Question
+  2. Show Question
+  3. Delete Question
+  4. Generate Question Paper
+  5. Logout
+  6. login Detail
+ 
+------------------------------------------------------------------------------------------------------------------
+## 10-04-2020 Friday
+ I designed my project on login pages In which my login page has username and password and two option like login and cancel.
+ 
+ -----------------------------------------------------------------------------------------------------------------------
+
+## 9-04-2020 Thursday
+ I Read about my project Today.
+ I Learned a little bit about LDAP.
+ 
+ --------------------------------------------------------------------------------------------------------------------
+
 ## 13-03-2020 Friday
 I have completed Sqlite tutorial from software carpentry
 [sqlite](https://swcarpentry.github.io/sql-novice-survey/)
