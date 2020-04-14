@@ -1,3 +1,9 @@
+## 14-04-2020 Tuesday
+- I watched a lot of videos related to own project from youtube.
+- I read the all concept of virtualization.
+[virtualization](https://en.wikipedia.org/wiki/Virtualization)
+
+------------------------------------------------------------------------------------------------------------------------
 ## 13-04-2020 Monday
  I have completed jquery, Ajax from W3 school
  [jquery](https://www.w3schools.com/xml/ajax_intro.asp)
