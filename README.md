@@ -2,6 +2,7 @@
 - I watched a lot of videos related to own project from youtube.
 - I read the all concept of virtualization.
 [virtualization](https://en.wikipedia.org/wiki/Virtualization)
+- I read the 5 email message in GD group.
 
 ------------------------------------------------------------------------------------------------------------------------
 ## 13-04-2020 Monday
