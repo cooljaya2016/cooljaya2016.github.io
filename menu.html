@@ -1,0 +1,272 @@
+<!DOCTYPE html> <html> <head> <meta name="viewport" content="width=device-width, initial-scale=1"> <style> * {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 15px;
+  width: 16.40%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#ADDQuestion {background-color: #E59866;}
+#SHOWQuestion {background-color: #424949;}
+#DELETEQuestion {background-color:#16A085;}
+#GenerateQuestionPaper {background-color:#45B39D;}
+#LoginDetail {background-color:#45B39D;}
+#Logout {background-color:pink;}
+
+.container {
+  padding: 16px;
+  background-color:#34495E;}
+.container1 {
+  padding: 16px;
+  background-color:#34495E;}
+
+
+
+input[type=text] {
+    width: 25%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+input[type=text]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+.registerbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width:30%;
+    opacity: 0.9;
+}
+#level{
+  padding: 16px;
+ width:10%;
+  background-color:white;}
+
+#unitno{
+ padding: 16px;
+ width:10%;
+ backgroud-color:white;}
+
+
+</style>
+</head>
+<body>
+
+<button class="tablink" onclick="openPage('ADDQuestion', this, 'red')">ADD Question</button>
+<button class="tablink" onclick="openPage('SHOWQuestion', this, 'green')" id="defaultOpen">SHOW Question</button>
+<button class="tablink" onclick="openPage('DELETEQuestion', this, 'blue')">DELETE Question</button>
+<button class="tablink" onclick="openPage('GenerateQuestionPaper', this, 'orange')">Generate Question Paper</button>
+<button class="tablink" onclick="openPage('LoginDetail', this, 'orange')">Login Detail</button>
+<button class="tablink" onclick="openPage('Logout', this, 'orange')">Logout</button>
+
+<div id="ADDQuestion" class="tabcontent"> 
+  
+  <center> <h2> ADD QUESTION</h2></center>
+      <div class="container">
+            <hr>
+                <label for="Question Id"><br> Question ID </br> </label>
+                 <input type="text" Placeholder="Question ID" name="Qn" required>
+                <label for="Enter The Question"><br> Enter The Question </br> </label>
+                <input type="text" Placeholder="Enter The Question" name="Etq" required>
+		<label for="Subject"><br> Subject</br></label>
+		<input type="text" placeholder="Subject" name="sub" required>
+                     <div class="container1">
+			<label for="Difficult Level"> Difficult Level:</label>
+		
+  			<select id="level" name="Dl">
+    			<option value="Easy">Easy</option>
+   			 <option value="Medium">Medium</option>
+    			<option value="Difficult">Difficult</option>
+  			</select>
+			<label for="unit no">Unit No:</label>
+  			<select id="unitno" name="un">
+    				<option value="1">1</option>
+    				<option value="2">2</option>
+    				<option value="3">3</option>
+  			</select></div>
+			<label for="year"><br>Year</br></label>
+                        <input type="text" placeholder="Year" name="txt" required>
+		    <label for="Marks Alloted"><br> Marks Alloted</br></label>
+		<input type="text" placeholder="Marks" name="Ma" required>
+	 <label for="Module"><br> Module</br></label>
+                <input type="text" placeholder="Module" name="Mo" required>
+       <label for="Semester"><br> Semester</br></label>
+                <input type="text" placeholder="Semester" name="se" required>
+        <label for="Subject Code"><br> Subject Code</br></label>
+                <input type="text" placeholder="Subject Code" name="sc" required>
+<br>
+
+                 <button type="submit" class="registerbtn">Submit</button>
+		<button type="Cancel" class="registerbtn">Cancel</button>
+  		<button type="Exit" class="registerbtn">Exit</button>
+     </div>         
+</div>
+
+<div id="SHOWQuestion" class="tabcontent">
+  <h3>SHow Question</h3>
+  <p>Some news this fine day!</p> 
+</div>
+
+<div id="DELETEQuestion" class="tabcontent">
+  <center><h3>DELETE OR UPDATE QUESTION</h3></center>
+     <div class="container">
+            <hr>
+                <label for="Question Id"><br> Question ID </br> </label>
+                 <input type="text" Placeholder="Question ID" name="Qn" required>
+                <label for="Enter The Question"><br> Enter The Question </br> </label>
+                <input type="text" Placeholder="Enter The Question" name="Etq" required>
+                <label for="Subject"><br> Subject</br></label>
+                <input type="text" placeholder="Subject" name="sub" required>
+                     <div class="container1">
+                        <label for="Difficult Level"> Difficult Level:</label>
+
+                        <select id="level" name="Dl">
+                        <option value="Easy">Easy</option>
+                         <option value="Medium">Medium</option>
+                        <option value="Difficult">Difficult</option>
+                        </select>
+                        <label for="unit no">Unit No:</label>
+                        <select id="unitno" name="un">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                        </select></div>
+                        <label for="year"><br>Year</br></label>
+                        <input type="text" placeholder="Year" name="txt" required>
+                    <label for="Marks Alloted"><br> Marks Alloted</br></label>
+                <input type="text" placeholder="Marks" name="Ma" required>
+         <label for="Module"><br> Module</br></label>
+<input type="text" placeholder="Module" name="Mo" required>
+       <label for="Semester"><br> Semester</br></label>
+                <input type="text" placeholder="Semester" name="se" required>
+        <label for="Subject Code"><br> Subject Code</br></label>
+                <input type="text" placeholder="Subject Code" name="sc" required>
+<br>
+
+   
+  <button type="Delete" class="registerbtn">DELETE</button>
+                <button type=" Update" class="registerbtn">UPDATE</button>
+                <button type="Exit" class="registerbtn">Exit</button>
+</div>        
+</div>
+
+<div id="GenerateQuestionPaper" class="tabcontent">
+ <center> <h3>Generate Question Paper</h3></center>
+    <div class="container">
+            <hr>
+                <label for="Subject"><br> Subject </br> </label>
+                 <input type="text" Placeholder="Subject" name="sb" required>
+		<label for="Branch"><br> Branch </br> </label>
+                 <input type="text" Placeholder="Branch" name="br" required>
+		<label for="Exam Type"><br>Exam Type </br> </label>
+                 <input type="text" Placeholder="Exam Type" name="Et" required>
+               <label for="Subject code"><br> Subject code </br> </label>
+                 <input type="text" Placeholder="Subject code" name="sc" required>
+		<label for="Semester"><br> Semester </br> </label>
+                 <input type="text" Placeholder="Semester" name="se" required>
+		<label for="Year"><br> Year </br> </label>
+                 <input type="text" Placeholder="Year" name="yr" required>
+		<label for="Duration"><br> Duration </br> </label>
+                 <input type="text" Placeholder="Duration" name="du" required>
+
+		<label for="Total Marks"><br>Total Marks </br> </label>
+                 <input type="text" Placeholder="Total Marks" name="tm" required>
+		<br> <button type="Generate Question Paper" class="registerbtn">Generate Question Paper</button>
+
+
+</div>
+
+<div id="LoginDetail" class="tabcontent">
+<center><h1> Login Detail </h1></center>
+  
+         <div class="container">
+
+          <hr>
+                 <label for="Faculty Name"><br> Faculty Name </br> </label>
+                  <input type="text" placeholder="Faculty name" name="fn" required>
+                  <label for="Faculty ID"><br> Faculty ID </br> </label>
+                  <input type="text" placeholder="Faculty ID" name="fd" required>
+                  <label for="Subject"><br> Subject </br> </label>
+                  <input type="text" placeholder="Subject" name="Su" required>
+                  <label for="Branch"><br> Branch </br> </label>
+                  <input type="text" placeholder="Branch" name="Br" required>
+                  <label for="Contact No"><br> Contact No </br> </label>
+                  <input type="text" placeholder="Contact No" name="Cn" required>
+                  <label for="Email Id"><br> Email Id </br> </label>
+                  <input type="text" placeholder="Email Id" name="Ed" required>
+
+             </div>
+
+             
+</div>
+
+<div id="Logout" class="tabcontent">
+  <h3> Logout </h3>
+</div>
+
+<script>
+function openPage(pageName,elmnt,color) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+  document.getElementById(pageName).style.display = "block";
+  elmnt.style.backgroundColor = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   
+</body>
+</html> 
+
