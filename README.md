@@ -10,7 +10,7 @@
  6. Year
  7. Duration
  8. Total Marks
- - I watched video send by you.
+
  -------------------------------------------------------------------------------------------------------------------------
 ## 14-04-2020 Tuesday
 - I watched a lot of videos related to own project from youtube.
