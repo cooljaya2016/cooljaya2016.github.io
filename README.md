@@ -1,5 +1,17 @@
 ## 15-04-2020 Wednesday
- ![Add Ques1](./home/jaya/Pictures/add1.png)
+ I was working on project.
+ some error occuring on Login page Detail such as all things are blank on  the page.
+ - I Designed generate Question paper in which many options such as:
+ 1. Subject
+ 2. Branch
+ 3. Exam Type
+ 4. Subject Code
+ 5. Semester
+ 6. Year
+ 7. Duration
+ 8. Total Marks
+ - I watched video send by you.
+ -------------------------------------------------------------------------------------------------------------------------
 ## 14-04-2020 Tuesday
 - I watched a lot of videos related to own project from youtube.
 - I read the all concept of virtualization.
