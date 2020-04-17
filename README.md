@@ -1,3 +1,6 @@
+## 17-04-2020 Friday
+I have read about moodle from this link [moodle](https://docs.moodle.org/dev/Tutorial)
+------------------------------------------------------------------------------------------------------------------
 ## 15-04-2020 Wednesday
  I was working on project.
  some error occuring on Login page Detail such as all things are blank on  the page.
