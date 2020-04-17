@@ -1,5 +1,6 @@
 ## 17-04-2020 Friday
-I have read about moodle from this link [moodle](https://docs.moodle.org/dev/Tutorial)
+I have read about moodle from this link [moodle](https://docs.moodle.org/dev/Tutorial).
+- I have learnt the php from w3 school.
 ------------------------------------------------------------------------------------------------------------------
 ## 15-04-2020 Wednesday
  I was working on project.
