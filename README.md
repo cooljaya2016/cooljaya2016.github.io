@@ -1,13 +1,13 @@
 ## 18-04-2020 Saturday
- - I have learnt the Php Forms and Php Advanced from w3 School.
-  - Php Forms:
+ -I have learnt the Php Forms and Php Advanced from w3 School.
+  -Php Forms:
        1. PHP Form Handling:
-            The PHP superglobals $_GET and $_POST are used to collect form-data.
+            -The PHP superglobals $_GET and $_POST are used to collect form-data.
         2. PHP Form Validation:
              -Text Fields
              -Radio Buttons
              -The Form Element
-    - Php Advanced:
+    -Php Advanced:
           1. PHP Date and Time:
                -The PHP date() function is used to format a date and/or a time.
            2. PHP File Handling:
