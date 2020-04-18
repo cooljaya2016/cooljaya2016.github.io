@@ -1,3 +1,25 @@
+## 18-04-2020 Saturday
+ - I have learnt the Php Forms and Php Advanced from w3 School.
+  - Php Forms:
+       -PHP Form Handling:
+            The PHP superglobals $_GET and $_POST are used to collect form-data.
+        -PHP Form Validation:
+             1. Text Fields
+             2. Radio Buttons
+             3. The Form Element
+    - Php Advanced:
+          -PHP Date and Time:
+               -The PHP date() function is used to format a date and/or a time.
+          - PHP File Handling:
+               -File handling is an important part of any web application. You often need to open and process a file for different tasks.
+     -PHP Cookies:
+          -Create Cookies With PHP:
+               A cookie is created with the setcookie() function.
+
+              Syntax:
+             setcookie(name, value, expire, path, domain, secure, httponly);
+ -----------------------------------------------------------------------------------------------------------------------
+               
 ## 17-04-2020 Friday
 - I have read about moodle from this link [moodle](https://docs.moodle.org/dev/Tutorial).
 - I have learnt the php from w3 school.
