@@ -1,7 +1,7 @@
 ## 18-04-2020 Saturday
  -I have learnt the Php Forms and Php Advanced from w3 School.
   
-  -Php Forms:
+  -Php Forms:[php Forms](https://www.w3schools.com/PHP/php_forms.asp)
   
        1.PHP Form Handling:
        
@@ -14,7 +14,7 @@
              -The Form Element
              
              
-    -Php Advanced:
+    -Php Advanced: [Php Advanced](https://www.w3schools.com/PHP/php_date.asp)
           1. PHP Date and Time:
                -The PHP date() function is used to format a date and/or a time.
            2. PHP File Handling:
