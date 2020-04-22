@@ -1,3 +1,9 @@
+## 22-04-2020 Wednesday
+ I have install the moodle from this link. I watched a video and learnt the basic moodle.
+[moodle](https://moodle.org/mod/forum/discuss.php?d=352360)
+[video](https://youtu.be/-hXNSqEbjwE)
+
+--------------------------------------------------------------------------------------------------------
 ## 18-04-2020 Saturday
  -I have learnt the [Php Forms](https://www.w3schools.com/PHP/php_forms.asp) and [Php Advanced](https://www.w3schools.com/PHP/php_date.asp) from w3 School.
   
