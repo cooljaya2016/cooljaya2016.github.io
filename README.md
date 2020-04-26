@@ -1,3 +1,26 @@
+## 26-04-2020 Sunday
+I have Admin login page and Faculity login page in my project.  Admin will be giving username and password to Faculity Member After that the Faculity Member will login.
+1.  Admin create account of Faculity member 
+        Faculty :
+                      Fid, F-name, Branch, Email, Subject.
+     faculty select the option login to system
+2.login to system contain Following option
+    Add Question , Delete Question, Predefined Question, Generate Question Paper, Update Question.
+(i) Add Question :
+           Ques-id, enter the question, Add optional, semester, year, Difficult level, unit-no, subject, subject code, marks allotted, module, submit, cancel, exit.
+(ii) Delete Question:
+     subject id, question id, question.
+(iii) Predefined Question:
+      subject, unit no.
+(iv) Generate Question Paper:
+      Duration, Subject, branch, Semester code, Exam type, Marks, Semester, Year
+(v) update Question:
+     Add Question.
+     
+     -----------------------------------------------------------------------------------------------------------------------
+## 25-04-2020 Saturday
+ I had prepared project Report
+
 ## 22-04-2020 Wednesday
  I have install the moodle from this link. I watched a video and learnt the basic moodle.
 [moodle](https://moodle.org/mod/forum/discuss.php?d=352360)
