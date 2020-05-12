@@ -1,3 +1,28 @@
+## 11-5-2020 Monday
+I have removed some problem from project when error occur during project run.
+
+--------------------------------------------------------------------------------------------------------------------
+## 9-5-2020 Saturday
+Today I have studied the mysql from w3schools.
+
+---------------------------------------------------------------------------------------------------------------------
+## 8-5-2020 Friday
+Today I have tried the connectivity with databases.
+
+-----------------------------------------------------------------------------------------------------------------------
+## 7-5-2020 Thursday
+I have tried the link given below.
+[OBE](https://blogs.oracle.com/oracleuniversity/15-things-to-know-about-outcome-based-learning-in-a-modern-cloud-world)
+
+-------------------------------------------------------------------------------------------------------------------
+## 6-5-2020 wednesday
+today I have created the format of question paper.
+
+----------------------------------------------------------------------------------------------------------------------
+## 29-04-2020 Wednesday
+I have created the Add question pages.
+
+-------------------------------------------------------------------------------------------------------------
 ## 28-04-2020 Tuesday
 [DFD]( https://cooljaya2016.github.io/obe.pdf)
 
