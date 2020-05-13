@@ -3,9 +3,9 @@
   1. Outcome-based education (OBE)  is an educational theory that bases each part of an educational system around                goals(outcomes).
   2. By the end of educational experience, each student should have achieved the goal. 
   3. Outcome based learning defines objectives.
-  4. **Using Bloom’s Taxonomy**:
+  4. **Using Bloom’s Taxonomy**:<br />
      Bloom’s Taxonomy is a classification of the different objectives and skills that educators set for their students                (learning objectives).<br />
-      These 6 levels can be used to structure the learning objectives, lessons, and assessments of your course:<br />     
+    These 6 levels can be used to structure the learning objectives, lessons, and assessments of your course:<br />     
      **1. Remembering**: Recognizing and recalling facts.<br />
      **2. Understanding**: Understanding what the facts mean.<br />
      **3. Applying**: Applying the facts, rules, concepts, and ideas.<br />
