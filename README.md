@@ -4,7 +4,7 @@
   2. By the end of educational experience, each student should have achieved the goal. 
   3. Outcome based learning defines objectives.
   
-###  Using Bloom’s Taxonomy:
+  Using Bloom’s Taxonomy:
       Bloom’s Taxonomy is a classification of the different objectives and skills that educators set for their students   (learning objectives).
       These 6 levels can be used to structure the learning objectives, lessons, and assessments of your course:
       1. Remembering: Recognizing and recalling facts.
