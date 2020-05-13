@@ -8,7 +8,7 @@
      
       These 6 levels can be used to structure the learning objectives, lessons, and assessments of your course:
       
-     **1. Remembering**: Recognizing and recalling facts.
+     **1. Remembering**: Recognizing and recalling facts.<br />
      **2. Understanding**: Understanding what the facts mean.
      **3. Applying**: Applying the facts, rules, concepts, and ideas.
      **4. Analyzing**: Breaking down information into component parts.
