@@ -1,0 +1,75 @@
+{% extends 'generator/basic.html' %}
+
+{% block title%} Update question {% endblock %}
+{% block css %}
+.registerbtn {
+  background-color:blue;
+
+}
+.registerbtn:hover{
+ background-color:green;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+.registerbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width:100%;
+    opacity: 0.9;
+}
+
+{% endblock %}
+{% block body %}
+
+<center><h3> UPDATE QUESTION</h3></center>
+     <div class="container">
+            <hr>
+                <label for="Question Id"><br> Question ID </br> </label>
+                 <input type="text" Placeholder="Question ID" name="Qn" required>
+                <label for="Enter The Question"><br> Enter The Question </br> </label>
+                <input type="text" Placeholder="Enter The Question" name="Etq" required>
+                <label for="Subject"><br> Subject</br></label>
+                <input type="text" placeholder="Subject" name="sub" required>
+                     <div class="container1">
+                        <label for="Difficult Level"> Difficult Level:</label>
+
+                        <select id="level" name="Dl">
+                        <option value="Easy">Easy</option>
+                         <option value="Medium">Medium</option>
+                        <option value="Difficult">Difficult</option>
+                        </select>
+                        <label for="unit no">Unit No:</label>
+                        <select id="unitno" name="un">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                        </select></div>
+                        <label for="year"><br>Year</br></label>
+                        <input type="text" placeholder="Year" name="txt" required>
+                    <label for="Marks Alloted"><br> Marks Alloted</br></label>
+                <input type="text" placeholder="Marks" name="Ma" required>
+         <label for="Module"><br> Module</br></label>
+<input type="text" placeholder="Module" name="Mo" required>
+       <label for="Semester"><br> Semester</br></label>
+                <input type="text" placeholder="Semester" name="se" required>
+        <label for="Subject Code"><br> Subject Code</br></label>
+                <input type="text" placeholder="Subject Code" name="sc" required>
+<br>
+
+
+  <button type="Delete" class="registerbtn">DELETE</button>
+                <button type=" Update" class="registerbtn">UPDATE</button>
+                <button type="Exit" class="registerbtn">Exit</button>
+</div>
+{% endblock %}

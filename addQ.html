@@ -1,0 +1,82 @@
+{% extends 'generator/basic.html' %}
+
+{% block css %}
+.registerbtn {
+  background-color:blue;
+
+}
+.registerbtn:hover{
+ background-color:green;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+.registerbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width:100%;
+    opacity: 0.9;
+}
+
+{% endblock %}
+
+{% block title%} Add question {% endblock %}
+{% block body %}
+
+<center> <h2> ADD QUESTION</h2></center>
+<form><hr>
+	<div class="form-group">
+		<label for="questionId">Question ID </label> <br>
+		<input type="text" Placeholder="Question ID" name="Qn" required><br>
+	</div>
+	<div class="form-group">
+         <label for= "EnterTheQuestion">Enter The Question</label><br>
+		 <input type="text" Placeholder="Enter The Question" name="Etq" required><br>
+	</div>
+	<div class="form-group">
+		<label for="Subject">Subject</label><br>
+		<input type="text" placeholder="Subject" name="sub" required>
+	</div>
+</form>
+<div class="container1">
+	<label for="Difficult Level"> Difficult Level:</label>
+		<select id="level" name="Dl">
+    			<option value="Easy">Easy</option>
+   			 <option value="Medium">Medium</option>
+    			<option value="Difficult">Difficult</option>
+  			</select><br><br>
+			<label for="unit no">Unit No:</label>
+  			<select id="unitno" name="un">
+    				<option value="1">1</option>
+    				<option value="2">2</option>
+    				<option value="3">3</option>
+  			</select><br><br></div>
+			<label for="year"><br>Year</label>
+                        <input type="text" placeholder="Year" name="txt" required><br>
+		    <label for="Marks Alloted"><br> Marks Alloted</label>
+		<input type="text" placeholder="Marks" name="Ma" required><br>
+	 <label for="Module"><br> Module</label>
+                <input type="text" placeholder="Module" name="Mo" required><br>
+       <label for="Semester"><br> Semester</label>
+                <input type="text" placeholder="Semester" name="se" required><br>
+        <label for="Subject Code"><br> Subject Code</label>
+                <input type="text" placeholder="Subject Code" name="sc" required>
+<br>
+
+                 <button type="submit" class="registerbtn">Submit</button>
+		<button type="Cancel" class="registerbtn">Cancel</button>
+  		<button type="Exit" class="registerbtn">Exit</button>
+     </div>
+</div>
+{% endblock %}
