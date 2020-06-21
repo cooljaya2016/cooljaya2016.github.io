@@ -1,3 +1,36 @@
+## 26-5-2020 Tuesday
+Today I have downloaded the Xampp Server.
+
+-------------------------------------------------------------------------------------------------------------
+
+## 25-5-2020 Monday
+Today I have study about the server.
+
+---------------------------------------------------------------------------------------------------------
+## 22-5-2020 Friday
+ Today I have worked only old project and try to generate question paper.
+ 
+ ----------------------------------------------------------------------------------------------------------
+## 21-5-2020 Thursday
+I have designed the admin dashboard and user dashboard using html, css, bootstrap etc.
+
+----------------------------------------------------------------------------------------------------------
+## 20-5-2020 Wednesday
+I have designed the admin and users login page and connect to the mysql .
+
+---------------------------------------------------------------------------------------------------------------
+## 18-5-2020 Monday
+ I have started online Quiz System project.
+ 
+ ------------------------------------------------------------------------------------------------------------------
+## 16-5-2020 Saturday
+Today I start the new project.
+
+--------------------------------------------------------------------------------------------------------------
+## 14-5-2020 Thursday
+ Today I have studied the php from w3 schools.
+ 
+ --------------------------------------------------------------------------------------------------------------------
 ## 13-5-2020 Wednesday
 ### OBE:
   1. Outcome-based education (OBE)  is an educational theory that bases each part of an educational system around                goals(outcomes).
