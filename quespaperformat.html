@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+ <style>
+     .pa{
+     margin-top:0px;
+     margin-right:0px;
+     margin-left:1100px;
+     }
+ </style> </head>
+  <body>
+    <p> [Total No.Of Question:09]</p>
+    <div class="pa">[Total No. of Pages....]</div>
+    <br>
+    <p>Uni.Roll No...................</p>
+    <br>
+    <center>
+        <br>
+        <p> Program Course:{{course}}.{{semester}}</p>
+        <br> <p> Name Of Subject:{{subject}}</p>
+        <br><p>Subject Code:{{subcode}}</p>
+        <br><p>Paper ID:{{paperid}}</p>
+    </center>
+    <br>
+    <p> Time Allowed:{{time}}</p>
+    <div class="pa"> <p> Max.Marks:{{marks}}</p></div>
+    <br>
+    <p>
+        NOTE:
+    </p>
+    <br>
+    <P>1) Section A is Compulsory<br>
+        2) Attempt any five questions from <b>Section-B </b>and <b>Section-C,</b> Selecting at least <b>two</b>
+    questions from each of the two sections.<br>
+    3) Any missing data may be assumed appropriately</P>
+
+  <center><b>Section - A</b></center>
+<br>
+    {% for i in questionBank %}
+      {% if year == i.year %}
+        {% if sem == i.semester %}
+          {% if subject == i.subject %}
+            {% if chapter == i.chapter %}
+              {% if diffOne == i.difficulty %}
+                <span style="float:left;margin-left:60px;">{{i.question}}<h4 style="margin-left:700px">{{i.marks}}</h4></span>
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    <br><br><br>
+   <center><b>Section - B</b></center>
+
+    <br>
+    {% for i in questionBank %}
+      {% if year == i.year %}
+        {% if sem == i.semester %}
+          {% if subject == i.subject %}
+            {% if chapter == i.chapter %}
+            {% if diffTwo == i.difficulty %}
+            <span style="float:left;margin-left:60px;">{{i.question}}<h4 style="margin-left:700px">{{i.marks}}</h4></span>
+            {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    <br><br><br>
+ <center><b>Section - C</b></center>
+    <br>
+    <br>
+    {% for i in questionBank %}
+      {% if year == i.year %}
+        {% if sem == i.semester %}
+          {% if subject == i.subject %}
+          {% if chapter == i.chapter %}
+            {% if diffThree == i.difficulty %}
+            <span style="float:left;margin-left:60px;">{{i.question}}<h4 style="margin-left:700px">{{i.marks}}</h4></span>
+            {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+<br>
+<br>
+
+</body>
+</html>
